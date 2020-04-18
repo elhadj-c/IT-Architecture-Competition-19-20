@@ -20,15 +20,23 @@ Orgmatics
 
  
 
+
+
+
+
+
+
  
 
-# **Table of Contents**
+# **Table of Contents**                                                                              
 
- 
-
-- Description of the problem in your words                                                                                        
-
-1- Scope                                                                                                                                             2- Key Business Requirements and Processes                                                                                       3-** **System Context Diagram                                                                                                                 4-** **Epics                                                                                                                                              5- User Stories                                                                                                                            6- Risks                                                                                                                                              7- Definitions, Acronyms, Initialisms, and Abbreviations (DAIAs)                                                   
+1- Scope
+2- Key Business Requirements and Processes                                                                                       
+3- System Context Diagram
+4- Epics
+5- User Stories
+6- Risks
+7- Definitions, Acronyms, Initialisms, and Abbreviations (DAIAs)                                                   
 
  
 
